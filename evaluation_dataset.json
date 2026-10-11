@@ -1,0 +1,44 @@
+[
+
+  {
+
+    "question_id": "Q01",
+
+    "question": "โรคกรดไหลย้อนมีอาการอย่างไร และมีสาเหตุจากอะไร?",
+
+    "relevant_docs": ["doc_45", "doc_43"]
+
+  },
+
+  {
+
+    "question_id": "Q02",
+
+    "question": "โรคหัดเยอรมันเกิดจากเชื้ออะไร?",
+
+    "relevant_docs": ["doc_2"]
+
+  },
+
+  {
+
+    "question_id": "Q03",
+
+    "question": "อหิวาตกโรคมีอาการอย่างไร?",
+
+    "relevant_docs": ["doc_20"]
+
+  },
+
+  {
+
+    "question_id": "Q04",
+
+    "question": "โรคต้อกระจกมีสาเหตุจากอะไร?",
+
+    "relevant_docs": ["doc_29"]
+
+  }
+
+]
+ 

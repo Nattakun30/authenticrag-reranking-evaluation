@@ -1,0 +1,48 @@
+# Secrets
+
+.env
+
+.env.*
+
+!.env.example
+
+*secret*
+
+*credentials*
+
+*.pem
+
+*.key
+ 
+# Python
+
+__pycache__/
+
+*.pyc
+
+.venv/
+
+venv/
+ 
+# macOS and VS Code
+
+.DS_Store
+
+.vscode/
+ 
+# Backup files
+
+*.bak
+
+*.bak-*
+
+*.backup.md
+
+backup/
+ 
+# Local generated data
+
+chunks_export.json
+
+authentic_rag_search_results.json
+ 
